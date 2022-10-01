@@ -1,0 +1,13 @@
+* {
+    background: black;
+    padding: 22px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+body title {
+    font-size: 10px;
+}
